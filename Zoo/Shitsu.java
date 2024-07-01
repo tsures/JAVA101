@@ -5,4 +5,9 @@ public class Shitsu extends Dog{
         super(name, family, age, weight, carnivorous, fur, skinType, color, hungry, dogType);
         
     }
+
+    public Boolean Cute ()
+    {
+        return true;
+    }
 }
